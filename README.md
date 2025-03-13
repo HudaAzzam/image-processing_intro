@@ -1,6 +1,6 @@
-#  Edge Detection: Sobel vs. Canny
+# 🖼️ Edge Detection: Sobel vs. Canny
 
-## Overview
+## 📌 Overview
 This repository explores **edge detection** using two widely used techniques: **Sobel** and **Canny**. The goal is to compare their performance and understand their differences.
 
 - **Sobel**: A simple gradient-based method for detecting edges.
